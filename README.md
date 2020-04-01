@@ -4,3 +4,5 @@ Los casos de crímenes sexuales van en aumento, y proporcionalmente la insegurid
 ## Objetivo general:
 Realizar una predicción del dia de la semana, hora y municipio en que ocurre un posible delito sexual, por medio de un análisis de datos proporcionados por la policía nacional de Colombia
 ![resultados](NoteBook/resultados.png)
+## Video
+[![Youtube](http://img.youtube.com/vi/ZKe4nODYyuA/0.jpg)](https://youtu.be/ZKe4nODYyuA)
